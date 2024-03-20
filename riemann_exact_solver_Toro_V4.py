@@ -1,9 +1,5 @@
 '''
 AUTHOR:         B ANEESH BHAT
-COURSE:         COMPUTATIONAL GASDYNAMICS
-COURSE CODE:    AE229
-DEPARTMENT:     ICER
-DESCRIPTION:    PYTHON CODE TO SOLVE FOR EXACT RIEMANN PROBLEM FOR SOD'S SHOCK TUBE
 VERSION:        4
 REFERENCE:      E. F. Toro, “Riemann Solvers and Numerical Methods for Fluid Dynamics 3rd EDITION,” Springer Verlag, Berlin, 2009
 '''
